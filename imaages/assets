@@ -1,1 +1,3 @@
-
+git add .
+git commit -m "Add website image"
+git push origin main
