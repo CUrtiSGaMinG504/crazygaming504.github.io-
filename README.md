@@ -1,3 +1,3 @@
 # curtisgaming504.github.io-
 
-![image](/assets/images/your-image.jpg)
+![Alternative description text](/assets/images/my-photo.jpg)
