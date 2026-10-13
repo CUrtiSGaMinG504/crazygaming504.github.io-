@@ -20,5 +20,6 @@
 
 [lilliben-dark-ambient-cinematic-background-365194.mp3](https://github.com/user-attachments/files/33405439/lilliben-dark-ambient-cinematic-background-365194.mp3)
 
+[lilliben-corpse-rot-decomposition-soundscape-365182.mp3](https://github.com/user-attachments/files/33405558/lilliben-corpse-rot-decomposition-soundscape-365182.mp3)
 
 
